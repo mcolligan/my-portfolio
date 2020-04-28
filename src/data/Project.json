@@ -1,19 +1,19 @@
 [
   {
-    "name": "Dream Team Clothing",
-    "url": "",
-    "technologies": ["React.js", "Bootstrap", "Express", "Postgres", "Nginx", "AWS"],
-    "start": "2019-11-20",
-    "end": "2019-12-15",
-    "description": "A full-stack clothing retail web app."
-  },
-  {
     "name": "MTB Trail Companion",
     "url": "https://github.com/mcolligan/mvp",
     "technologies": ["React.js", "react-router", "Express", "Firebase", "Postgres", "Request", "Moment.js"],
     "start": "2020-01-15",
     "end": "",
     "description": "A MTB trail finder powered by the MTB Project API. Soon to fully support user authentication so users can store trails, track stats and make route notes."
+  },
+  {
+    "name": "Dream Team Clothing",
+    "url": "https://github.com/MNMDreamTeam",
+    "technologies": ["React.js", "Bootstrap", "Express", "Postgres", "Nginx", "AWS"],
+    "start": "2019-11-20",
+    "end": "2019-12-15",
+    "description": "A full-stack clothing retail web app."
   },
   {
     "name": "Dolores",
