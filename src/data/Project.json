@@ -1,8 +1,35 @@
 [
   {
+    "name": "Stuff & Things Apperal",
+    "url": "https://stuff-things.herokuapp.com/",
+    "technologies": [
+      "React.js",
+      "React-Router",
+      "Redux - logger/thunk/persist",
+      "SaaS",
+      "Firebase - Auth/Firestore",
+      "Styled-Components",
+      "Reselect",
+      "StripeAPI"
+    ],
+    "start": "2020-04-29",
+    "end": "2020-05-20",
+    "description": "Clothing and apperal project desgined to learn many libraries and patterns I have never used before."
+  },
+  {
     "name": "MTB Trail Companion",
     "url": "https://github.com/mcolligan/mvp",
-    "technologies": ["React.js", "react-router", "Express", "Firebase", "Postgres", "Request", "Moment.js"],
+    "technologies": [
+      "MTB Project API",
+      "React.js",
+      "react-router",
+      "Bootstrap",
+      "Express",
+      "Firebase",
+      "Postgres",
+      "Request",
+      "Moment.js"
+    ],
     "start": "2020-01-15",
     "end": "",
     "description": "A MTB trail finder powered by the MTB Project API. Soon to fully support user authentication so users can store trails, track stats and make route notes."
@@ -10,7 +37,14 @@
   {
     "name": "Dream Team Clothing",
     "url": "https://github.com/MNMDreamTeam",
-    "technologies": ["React.js", "Bootstrap", "Express", "Postgres", "Nginx", "AWS"],
+    "technologies": [
+      "React.js",
+      "Bootstrap",
+      "Express",
+      "Postgres",
+      "Nginx",
+      "AWS"
+    ],
     "start": "2019-11-20",
     "end": "2019-12-15",
     "description": "A full-stack clothing retail web app."
@@ -18,15 +52,21 @@
   {
     "name": "Dolores",
     "url": "https://github.com/mcolligan/reminderBot",
-    "technologies": ["discord.js", "node-cron"],
+    "technologies": ["discord.js", "node-cron", "Google Calendar API"],
     "start": "2020-04-01",
     "end": "2020-04-03",
     "description": "A disord bot to send auto reminders to student channels and direct message students when requested."
   },
   {
     "name": "BitCoin Tracker",
-    "url": "http://18.222.201.10:3000/",
-    "technologies": ["React.js", "Bootstrap", "Express", "Chart.js"],
+    "url": "http://18.191.117.45:3001/",
+    "technologies": [
+      "React.js",
+      "Bootstrap",
+      "Express",
+      "Chart.js",
+      "LocalStorage"
+    ],
     "start": "2020-01-12",
     "end": "2020-01-12",
     "description": "A Bit Coin rate tracker that graphs last 30 days of activity."
@@ -40,4 +80,3 @@
     "description": "A quick and easy history 'fact' finder."
   }
 ]
-
