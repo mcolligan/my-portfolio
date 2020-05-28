@@ -14,7 +14,7 @@
     ],
     "start": "2020-04-29",
     "end": "2020-05-20",
-    "description": "Clothing and apperal project desgined to learn many libraries and patterns I have never used before."
+    "description": "Clothing and apperal project desgined to learn many libraries and patterns I have never used before. NOTE: Deployed to Heroku free tier. Takes awhile to load first time if server is in 'sleeping' state."
   },
   {
     "name": "MTB Trail Companion",
@@ -59,7 +59,7 @@
   },
   {
     "name": "BitCoin Tracker",
-    "url": "http://18.191.117.45:3001/",
+    "url": "http://3.17.6.58:3001/",
     "technologies": [
       "React.js",
       "Bootstrap",
